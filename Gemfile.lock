@@ -125,10 +125,13 @@ DEPENDENCIES
   jdbc-sqlite3
   jquery-rails (= 1.0.14)
   jruby-openssl
-  mysql2 (~> 0.2.7)
+  mysql2
   pg
   rails (= 3.0.9)
   rake
+  redis
+  redis-namespace
+  resque
   resque-rails
   simple_form (= 1.5.1)
   sqlite3

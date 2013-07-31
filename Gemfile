@@ -4,9 +4,13 @@ gem 'rails', '3.0.9'
 
 gem 'simple_form', '1.5.1'
 gem 'jquery-rails', '1.0.14'
+gem 'resque'
+gem 'redis'
+gem 'redis-namespace'
+
 
 platform :ruby do
-  gem 'mysql2', '~> 0.2.7'
+  gem 'mysql2'
   gem 'pg'
   gem 'sqlite3' 
   gem 'unicorn'
