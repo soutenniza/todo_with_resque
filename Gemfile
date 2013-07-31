@@ -11,7 +11,7 @@ gem 'redis-namespace'
 
 platform :ruby do
   gem 'mysql2'
-  gem 'pg'
+ 
   gem 'sqlite3' 
   gem 'unicorn'
 end
