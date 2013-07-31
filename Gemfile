@@ -8,6 +8,7 @@ gem 'resque'
 gem 'redis'
 gem 'redis-namespace'
 gem 'yajl-ruby'
+gem 'newrelic_rpm'
 
 platform :ruby do
   gem 'mysql2'
