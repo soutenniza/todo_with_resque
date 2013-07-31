@@ -111,6 +111,7 @@ GEM
       raindrops (~> 0.6)
     vegas (0.1.11)
       rack (>= 1.0.0)
+    yajl-ruby (1.1.0)
 
 PLATFORMS
   java
@@ -136,3 +137,4 @@ DEPENDENCIES
   thor
   trinidad
   unicorn
+  yajl-ruby

@@ -7,7 +7,7 @@ gem 'jquery-rails', '1.0.14'
 gem 'resque'
 gem 'redis'
 gem 'redis-namespace'
-
+gem 'yajl-ruby'
 
 platform :ruby do
   gem 'mysql2'
