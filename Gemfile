@@ -9,6 +9,7 @@ gem 'redis'
 gem 'redis-namespace'
 gem 'yajl-ruby'
 gem 'newrelic_rpm'
+gem 'ey_config'
 
 platform :ruby do
   gem 'mysql2'
